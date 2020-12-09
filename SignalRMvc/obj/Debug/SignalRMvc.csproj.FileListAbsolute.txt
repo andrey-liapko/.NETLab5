@@ -1,0 +1,351 @@
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe.config
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.rsp
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.exe
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.exe.config
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.rsp
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.AppContext.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Console.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.Compression.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.FileSystem.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.ValueTuple.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XPath.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe.config
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.rsp
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Owin.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Diagnostics.DiagnosticSource.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\System.Diagnostics.DiagnosticSource.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojAssemblyReference.cache
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csproj.CoreCompileInputs.cache
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csproj.CopyComplete
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Globalization.Calendars.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Net.Http.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Net.Sockets.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+D:\GSU\ASP.NET\lab4\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe.config
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.rsp
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.exe
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.exe.config
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.rsp
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Managed.Core.targets
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.AppContext.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Console.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Globalization.Calendars.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.Compression.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.FileSystem.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Net.Http.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Net.Sockets.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.ValueTuple.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XPath.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe.config
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.rsp
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Owin.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Diagnostics.DiagnosticSource.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Diagnostics.DiagnosticSource.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojResolveAssemblyReference.cache
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csproj.CoreCompileInputs.cache
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csproj.CopyComplete
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+E:\(У)\Бычков .net\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ApplicationInsights.config
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll.config
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\SignalRMvc.pdb
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.exe.config
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csc.rsp
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.exe
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.exe.config
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\csi.rsp
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Managed.Core.targets
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.AppContext.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Collections.Immutable.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Console.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Globalization.Calendars.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.Compression.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.FileSystem.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Net.Http.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Net.Sockets.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.ValueTuple.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XPath.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.exe.config
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\vbc.rsp
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\roslyn\VBCSCompiler.exe.config
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Owin.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Diagnostics.DiagnosticSource.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Razor.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\WebGrease.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.Web.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AI.WindowsServer.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.ApplicationInsights.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Microsoft.Owin.Security.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Newtonsoft.Json.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Diagnostics.DiagnosticSource.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Helpers.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Mvc.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Razor.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Deployment.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.WebPages.Razor.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\System.Web.Optimization.xml
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\Antlr3.Runtime.pdb
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.Core.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Helpers.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Mvc.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Razor.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\bin\ru\System.Web.Optimization.resources.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csprojAssemblyReference.cache
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csproj.CoreCompileInputs.cache
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.csproj.CopyComplete
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.dll
+E:\4 курс\asp.netAxamarin\готовое\lab4\lab4\SignalRMvc\SignalRMvc\obj\Debug\SignalRMvc.pdb
